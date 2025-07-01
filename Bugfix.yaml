@@ -1,2 +1,5 @@
 fix: corrected null pointer in login [BUG-101]
 fix: corrected null pointer in login [BUG-109]
+
+fix: corrected null pointer in login [BUG-150]
+fix: corrected null pointer in login [BUG-134]
